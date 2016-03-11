@@ -1,9 +1,4 @@
 
-// https://github.com/ASOGRUPO5/repositorioprueba.git  este es el repositorio de la red usa el 
-comando 
-// git clone https://github.com/ASOGRUPO5/repositorioprueba.git
-
-
 #include <stdio.h>
 #include <stdlib.h>
 
